@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-webrtc-client/static/css/main.658082af.css",
+    "main.js": "/react-webrtc-client/static/js/main.ce17b85b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/react-webrtc-client/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/cameraOff.svg": "/react-webrtc-client/static/media/cameraOff.a61d4a02c0eb084663511f927eab50b6.svg",
+    "static/media/cameraOn.svg": "/react-webrtc-client/static/media/cameraOn.b50348a3a3753a3a2bed268d795fd52d.svg",
+    "index.html": "/react-webrtc-client/index.html",
+    "main.658082af.css.map": "/react-webrtc-client/static/css/main.658082af.css.map",
+    "main.ce17b85b.js.map": "/react-webrtc-client/static/js/main.ce17b85b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/react-webrtc-client/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.658082af.css",
+    "static/js/main.ce17b85b.js"
+  ]
+}

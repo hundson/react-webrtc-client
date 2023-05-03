@@ -41,20 +41,25 @@ const getConfiguration = () => {
   return {
     iceServers: [
       {
-        urls: "stun:relay.metered.ca:80",
+        urls: "stun:a.relay.metered.ca:80",
       },
       {
-        urls: "turn:relay.metered.ca:80",
+        urls: "turn:a.relay.metered.ca:80",
         username: "1e845039e49ee8c52cf102ef",
         credential: "kIyLpMJOFcmNx5g/",
       },
       {
-        urls: "turn:relay.metered.ca:443",
+        urls: "turn:a.relay.metered.ca:80?transport=tcp",
         username: "1e845039e49ee8c52cf102ef",
         credential: "kIyLpMJOFcmNx5g/",
       },
       {
-        urls: "turn:relay.metered.ca:443?transport=tcp",
+        urls: "turn:a.relay.metered.ca:443",
+        username: "1e845039e49ee8c52cf102ef",
+        credential: "kIyLpMJOFcmNx5g/",
+      },
+      {
+        urls: "turn:a.relay.metered.ca:443?transport=tcp",
         username: "1e845039e49ee8c52cf102ef",
         credential: "kIyLpMJOFcmNx5g/",
       },
